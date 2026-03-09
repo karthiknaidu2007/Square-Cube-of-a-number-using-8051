@@ -29,8 +29,9 @@ END
 ```
 
 ## OUTPUT
-<img width="831" height="290" alt="image" src="https://github.com/user-attachments/assets/34901ed9-0fe2-4d2a-abdd-920c5e6007a9" />
-![WhatsApp Image 2026-03-09 at 5 43 14 PM](https://github.com/user-attachments/assets/f303060f-2995-4de9-adee-f85b78a994e2)
+<img width="831" height="290" alt="image" src="https://github.com/user-attachments/assets/9d4676c9-0e1b-4537-8e1d-fa479c8cd404" />
+
+![WhatsApp Image 2026-03-09 at 5 43 14 PM](https://github.com/user-attachments/assets/1e335878-46b0-4f4b-9be0-94642dc05383)
 
 
 ## RESULT
@@ -67,8 +68,11 @@ END
 
 
 ## OUTPUT
-<img width="1600" height="954" alt="image" src="https://github.com/user-attachments/assets/babf954d-ba0d-4bec-bd32-3dab7bd6c162" />
-![WhatsApp Image 2026-03-09 at 5 43 31 PM](https://github.com/user-attachments/assets/baf85d16-5817-4650-8d59-5b3dd90e13fe)
+<img width="1600" height="954" alt="image" src="https://github.com/user-attachments/assets/945f5ba7-c789-471d-b8ce-3a6b0d666919" />
+
+
+![WhatsApp Image 2026-03-09 at 5 43 31 PM](https://github.com/user-attachments/assets/50049c50-6b56-42f8-80bc-a361cf37a360)
+
 
 ## RESULT
 Thus, the cube of the given data is calculated using 8051 Keil.
